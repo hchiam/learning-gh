@@ -19,8 +19,8 @@ gh repo clone
 gh repo fork
 
 gh issue list --repo hchiam/in-browser-style-linter
-gh issue close
-gh issue repoen
+gh issue close 1
+gh issue reopen 1
 gh issue create
 
 gh pr create

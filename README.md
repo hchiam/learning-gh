@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+Example workflow all using `gh`: <https://github.blog/2020-09-17-github-cli-1-0-is-now-available>
+
 <https://cli.github.com>
 
 **To create this repo on a Mac:**

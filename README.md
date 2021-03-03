@@ -28,3 +28,7 @@ gh issue create
 gh pr create
 gh pr status
 ```
+
+**To get 2fa to work with gh cli, try this:**
+
+https://github.com/node-gh/gh/issues/450#issuecomment-490530739

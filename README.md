@@ -32,3 +32,7 @@ gh pr status
 **To get 2fa to work with gh cli, try this:**
 
 https://github.com/node-gh/gh/issues/450#issuecomment-490530739
+
+**To create a new repo from a template repo, all from the CLI:**
+
+https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com

@@ -10,7 +10,7 @@ More info: <https://cli.github.com>
 
 ```bash
 # Make sure you have Xcode installed and updated.
-brew install github/gh/gh
+brew install gh
 gh repo create learning-gh --public
 ```
 

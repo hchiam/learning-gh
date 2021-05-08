@@ -6,6 +6,8 @@ Example workflow all using `gh`: <https://github.blog/2020-09-17-github-cli-1-0-
 
 More info: <https://cli.github.com>
 
+**NOTE:** do _NOT_ run `yarn add gh` _NOR_ `npm install gh` because doing so will install [node-gh/`gh`](https://www.npmjs.com/package/gh) instead of what you actually want: [GitHub's official `gh` cli](https://github.com/cli/cli)
+
 **To create this repo on a Mac:**
 
 ```bash

@@ -19,8 +19,10 @@ gh repo create learning-gh --public
 **Other commands I like:**
 
 ```bash
-gh repo create --template learning-template learning-...
+gh repo create --template learning-template learning-... --public
+```
 
+```bash
 gh repo clone
 gh repo fork
 

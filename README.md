@@ -35,6 +35,10 @@ gh pr create
 gh pr status
 ```
 
+```bash
+brew upgrade gh
+```
+
 More here: https://github.com/hchiam/learning-bash-scripts
 
 **To get 2fa to work with gh cli, try this:**
